@@ -1,10 +1,30 @@
-import Default from '@layout/Default/Default';
 import Header from "@/components/header";
+export default function HomePage() {
+  return (
+    <div>
+      <Header name= "Aditya K."/>
+    </div>
+  );
+}
 
-const App = () => (
-  <Default>
-    <Header name= "Aditya K."/>
-  </Default>
-);
+// export default function HomePage() {
+//   const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
+//   const [likes, setLikes] = useState(0);
 
-export default App;
+//   function handleClick() {
+//     setLikes(likes + 1);
+//   }
+
+//   return (
+//     <div>
+//       <Header title="Develop. Preview. Ship. 🚀" />
+//       <ul>
+//         {names.map((name) => (
+//           <li key={name}>{name}</li>
+//         ))}
+//       </ul>
+
+//       <button onClick={handleClick}>Like ({likes})</button>
+//     </div>
+//   );
+// }
