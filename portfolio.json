@@ -1,0 +1,31 @@
+{
+    "name" : "Aditya Kulkarni",
+    "about": "Hi, I'm a fullstack software engineer.",
+    "github": "https://github.com/BeardedAmbivert",
+    "linkedin": "https://linkedin.com/in/ak19/",
+    "education": [
+        {
+            "name": "Vivekanand Education Society's College of Arts Commerce and Science",
+            "location": "Mumbai, Maharashtra, India",
+            "course": "Bachelors of Science",
+            "major": "Information Technology"
+        }
+    ],
+    "experience": [
+        {
+            "name": "Amazon",
+            "location": "Bellevue, Washington, USA",
+            "description": "Fullstack software engineer in Alexa Skills team",
+            "duration": "Oct 2021 - Apr 2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cell Phone Reviews on Amazon",
+            "description": "Sentiment Analysis and Topic Extraction on Amazon Phone Reviews Dataset"
+        }
+    ],
+    "skills": [
+        "Python", "Java", "ReactJS", "Spring boot", "Flask", "NodeJS"
+    ]
+}
