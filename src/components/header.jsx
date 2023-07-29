@@ -1,7 +1,7 @@
 function Header({ name }) {
     return (
       <h1>
-        Hi, I am {name}
+        {name}
       </h1>
       );
   }
