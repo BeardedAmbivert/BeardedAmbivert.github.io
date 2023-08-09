@@ -1,9 +1,9 @@
 import data from "../app/portfolio.json";
 import Header from "../components/Header";
-import Home from "./home";
-import Projects from "./projects";
-import Experience from "./experience";
-import Education from "./education";
+import Home from "../components/home";
+import Projects from "../components/projects";
+import Experience from "../components/experience";
+import Education from "../components/education";
 import Footer from "../components/Footer";
 
 export default function LandingPage() {

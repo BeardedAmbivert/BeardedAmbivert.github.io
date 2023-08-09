@@ -1,4 +1,4 @@
-import School from "../components/School";
+import School from "./School";
 
 function Education({ schools }) {
   return (

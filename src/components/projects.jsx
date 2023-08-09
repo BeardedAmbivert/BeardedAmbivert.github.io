@@ -1,4 +1,4 @@
-import Project from "../components/Project";
+import Project from "./Project";
 
 function Projects({ projects }) {
   return (
