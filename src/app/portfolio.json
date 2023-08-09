@@ -2,27 +2,73 @@
     "name" : "Aditya Kulkarni",
     "about": "Hi, I'm a fullstack software engineer.",
     "github": "https://github.com/BeardedAmbivert",
+    "email": "adityak1907@gmail.com",
     "linkedin": "https://linkedin.com/in/ak19/",
     "education": [
+        {
+            "name": "Stevens Institute of Technology",
+            "location": "Hoboken, New Jersey, United States",
+            "course": "Master of Science",
+            "major": "Computer Science",
+            "duration": "Aug 2019 - May 2021"
+        },
+        {
+            "name": "Ramnarain Ruia Autonomous College",
+            "location": "Mumbai, Maharashtra, India",
+            "course": "Master of Science",
+            "major": "Computer Science",
+            "duration": "Oct 2017 - Jun 2019"
+        },
         {
             "name": "Vivekanand Education Society's College of Arts Commerce and Science",
             "location": "Mumbai, Maharashtra, India",
             "course": "Bachelors of Science",
-            "major": "Information Technology"
+            "major": "Information Technology",
+            "duration": "Jun 2014 - Aug 2017"
         }
     ],
     "experience": [
         {
-            "name": "Amazon",
+            "name": "Amazon.com",
             "location": "Bellevue, Washington, USA",
+            "title": "Software Development Engineer",
             "description": "Fullstack software engineer in Alexa Skills team",
             "duration": "Oct 2021 - Apr 2023"
+        },
+        {
+            "name": "Vivpro.ai",
+            "location": "Herndon, Virginia, USA",
+            "title": "Software Development Engineer",
+            "description": "Fullstack software engineer building Unified BioIntelligence Platform for Medical Products",
+            "duration": "Jul 2021 - Oct 2021"
+        },
+        {
+            "name": "Vivpro.ai",
+            "location": "Herndon, Virginia, USA",
+            "title": "Software Development Engineering Intern",
+            "description": "Fullstack software engineer building Unified BioIntelligence Platform for Medical Products",
+            "duration": "Feb 2021 - May 2021"
+        },
+        {
+            "name": "Invizio Solutions LLC",
+            "location": "Mumbai, Maharashtra, India",
+            "title": "Android Engineering Intern",
+            "description": "Andriod developer building invertory management system for jewelery businesses",
+            "duration": "Feb 2019 - Apr 2019"
         }
     ],
     "projects": [
         {
             "title": "Cell Phone Reviews on Amazon",
             "description": "Sentiment Analysis and Topic Extraction on Amazon Phone Reviews Dataset"
+        },
+        {
+            "title": "Expense Tracking Application",
+            "description": "Designed a platform to track and split expenses, add recurring expenses, and check for expense trends on the dashboard"
+        },
+        {
+            "title": "Face Verification System",
+            "description": "Built a system which detects facse of people and compares it with existing database"
         }
     ],
     "skills": [
