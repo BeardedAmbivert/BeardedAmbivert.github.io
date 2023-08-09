@@ -1,9 +1,5 @@
-function About({ desc }) {
-    return (
-      <h2>
-        {desc}
-      </h2>
-      );
-  }
+function About({ about }) {
+  return <h2>{about}</h2>;
+}
 
 export default About;
